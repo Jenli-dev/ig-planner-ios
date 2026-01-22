@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Настройки";
+"settings.manage_subscription" = "Управление подпиской";
+"settings.manage_subscription.subtitle" = "Изменить или отменить план";
+"settings.go_pro" = "Стать PRO";
+"settings.go_pro.subtitle" = "Разблокировать все функции и инструменты";
+"settings.restore_purchases" = "Восстановить покупки";
+"settings.restore_purchases.subtitle" = "Реактивировать PRO на этом устройстве";
+"settings.language" = "Язык";
+"settings.language.subtitle" = "Выбрать язык приложения";
+"settings.diagnostics" = "Диагностика";
+"settings.ping_backend" = "Проверить Backend";
+"settings.about" = "О приложении";
+"settings.terms_of_use" = "Условия использования";
+"settings.privacy_policy" = "Политика конфиденциальности";
+
+/* Status */
+"status.pro_active" = "PRO активен";
+"status.free_mode" = "Бесплатный режим";
+"status.pro_thanks" = "Спасибо за поддержку! 🎉";
+"status.unlock_all" = "Разблокировать все функции и инструменты";
+"status.upgrade" = "Обновить";
+
+/* Common */
+"common.cancel" = "Отмена";
+"common.save" = "Сохранить";
+"common.delete" = "Удалить";
+"common.edit" = "Редактировать";
+"common.done" = "Готово";
+"common.close" = "Закрыть";
+"common.ok" = "OK";
+"common.error" = "Ошибка";
+"common.loading" = "Загрузка...";
+"common.refresh" = "Обновить";
+
+/* Analytics */
+"analytics.title" = "Аналитика";
+"analytics.last_update" = "Последнее обновление";
+"analytics.top_posts" = "Топ публикаций";
+
+/* Post Planner */
+"post_planner.title" = "Планировщик постов";
+"post_planner.no_scheduled" = "Нет запланированных постов";
+"post_planner.no_scheduled.subtitle" = "Нажмите \"+ Запланировать\" или используйте публикацию для добавления поста.";
+"post_planner.your_media" = "Ваши медиа";
+"post_planner.add_photos" = "Добавить фото из библиотеки";
+"post_planner.schedule_post" = "Запланировать пост";
+
+/* AI */
+"ai.chat.title" = "AI Чат";
+"ai.chat.placeholder" = "Напишите сообщение…";
+"ai.chat.greeting" = "Привет! Спроси меня о постах, аналитике или идеях ✨";
+"ai.chat.error" = "Упс, я не смог ответить сейчас. Пожалуйста, попробуйте снова.";
+
+/* Photo Editor */
+"photo_editor.title" = "Редактор фото";
+"photo_editor.subtitle" = "Создавайте лучшие визуалы";
+"photo_editor.description" = "Быстрые инструменты для фильтров, обложек, водяных знаков и изменения размера.";
+"photo_editor.filters" = "Фильтры";
+"photo_editor.filters.subtitle" = "Фото и Видео";
+"photo_editor.covers" = "Обложки";
+"photo_editor.covers.subtitle" = "Reels и Посты";
+"photo_editor.watermark" = "Водяной знак";
+"photo_editor.watermark.subtitle" = "Наложение логотипа";
+"photo_editor.resize" = "Изменить размер";
+"photo_editor.resize.subtitle" = "Обрезать и подогнать";
+"photo_editor.all_unlocked" = "Все функции редактора разблокированы.";
+"photo_editor.some_locked" = "Некоторые инструменты требуют Pro.";

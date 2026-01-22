@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Налаштування";
+"settings.manage_subscription" = "Керування підпискою";
+"settings.manage_subscription.subtitle" = "Змінити або скасувати план";
+"settings.go_pro" = "Стати PRO";
+"settings.go_pro.subtitle" = "Розблокувати всі функції та інструменти";
+"settings.restore_purchases" = "Відновити покупки";
+"settings.restore_purchases.subtitle" = "Реактивувати PRO на цьому пристрої";
+"settings.language" = "Мова";
+"settings.language.subtitle" = "Вибрати мову додатку";
+"settings.diagnostics" = "Діагностика";
+"settings.ping_backend" = "Перевірити Backend";
+"settings.about" = "Про додаток";
+"settings.terms_of_use" = "Умови використання";
+"settings.privacy_policy" = "Політика конфіденційності";
+
+/* Status */
+"status.pro_active" = "PRO активний";
+"status.free_mode" = "Безкоштовний режим";
+"status.pro_thanks" = "Дякуємо за підтримку! 🎉";
+"status.unlock_all" = "Розблокувати всі функції та інструменти";
+"status.upgrade" = "Оновити";
+
+/* Common */
+"common.cancel" = "Скасувати";
+"common.save" = "Зберегти";
+"common.delete" = "Видалити";
+"common.edit" = "Редагувати";
+"common.done" = "Готово";
+"common.close" = "Закрити";
+"common.ok" = "OK";
+"common.error" = "Помилка";
+"common.loading" = "Завантаження...";
+"common.refresh" = "Оновити";
+
+/* Analytics */
+"analytics.title" = "Аналітика";
+"analytics.last_update" = "Останнє оновлення";
+"analytics.top_posts" = "Топ публікацій";
+
+/* Post Planner */
+"post_planner.title" = "Планувальник постів";
+"post_planner.no_scheduled" = "Немає запланованих постів";
+"post_planner.no_scheduled.subtitle" = "Натисніть \"+ Запланувати\" або використайте публікацію для додавання поста.";
+"post_planner.your_media" = "Ваші медіа";
+"post_planner.add_photos" = "Додати фото з бібліотеки";
+"post_planner.schedule_post" = "Запланувати пост";
+
+/* AI */
+"ai.chat.title" = "AI Чат";
+"ai.chat.placeholder" = "Напишіть повідомлення…";
+"ai.chat.greeting" = "Привіт! Запитай мене про пости, аналітику або ідеї ✨";
+"ai.chat.error" = "Упс, я не зміг відповісти зараз. Будь ласка, спробуйте ще раз.";
+
+/* Photo Editor */
+"photo_editor.title" = "Редактор фото";
+"photo_editor.subtitle" = "Створюйте кращі візуали";
+"photo_editor.description" = "Швидкі інструменти для фільтрів, обкладинок, водяних знаків та зміни розміру.";
+"photo_editor.filters" = "Фільтри";
+"photo_editor.filters.subtitle" = "Фото та Відео";
+"photo_editor.covers" = "Обкладинки";
+"photo_editor.covers.subtitle" = "Reels та Пости";
+"photo_editor.watermark" = "Водяний знак";
+"photo_editor.watermark.subtitle" = "Накладення логотипу";
+"photo_editor.resize" = "Змінити розмір";
+"photo_editor.resize.subtitle" = "Обрізати та підігнати";
+"photo_editor.all_unlocked" = "Всі функції редактора розблоковані.";
+"photo_editor.some_locked" = "Деякі інструменти вимагають Pro.";

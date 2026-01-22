@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Instellingen";
+"settings.manage_subscription" = "Abonnement beheren";
+"settings.manage_subscription.subtitle" = "Wijzig of annuleer uw abonnement";
+"settings.go_pro" = "Word PRO";
+"settings.go_pro.subtitle" = "Ontgrendel alle inzichten en tools";
+"settings.restore_purchases" = "Aankopen herstellen";
+"settings.restore_purchases.subtitle" = "Heractiveer uw PRO op dit apparaat";
+"settings.language" = "Taal";
+"settings.language.subtitle" = "App-taal kiezen";
+"settings.diagnostics" = "Diagnostiek";
+"settings.ping_backend" = "Backend controleren";
+"settings.about" = "Over";
+"settings.terms_of_use" = "Gebruiksvoorwaarden";
+"settings.privacy_policy" = "Privacybeleid";
+
+/* Status */
+"status.pro_active" = "PRO actief";
+"status.free_mode" = "Gratis modus";
+"status.pro_thanks" = "Bedankt voor je steun! 🎉";
+"status.unlock_all" = "Ontgrendel alle inzichten en tools";
+"status.upgrade" = "Upgraden";
+
+/* Common */
+"common.cancel" = "Annuleren";
+"common.save" = "Opslaan";
+"common.delete" = "Verwijderen";
+"common.edit" = "Bewerken";
+"common.done" = "Klaar";
+"common.close" = "Sluiten";
+"common.ok" = "OK";
+"common.error" = "Fout";
+"common.loading" = "Laden...";
+"common.refresh" = "Vernieuwen";
+
+/* Analytics */
+"analytics.title" = "Analyses";
+"analytics.last_update" = "Laatste update";
+"analytics.top_posts" = "Top posts";
+
+/* Post Planner */
+"post_planner.title" = "Post Planner";
+"post_planner.no_scheduled" = "Nog geen geplande posts";
+"post_planner.no_scheduled.subtitle" = "Tik op \"+ Plannen\" of gebruik de publicatieflow om een post toe te voegen.";
+"post_planner.your_media" = "Je media";
+"post_planner.add_photos" = "Foto's uit Bibliotheek toevoegen";
+"post_planner.schedule_post" = "Post plannen";
+
+/* AI */
+"ai.chat.title" = "AI Chat";
+"ai.chat.placeholder" = "Schrijf een bericht…";
+"ai.chat.greeting" = "Hoi! Vraag me alles over je posts, analyses of ideeën ✨";
+"ai.chat.error" = "Oeps, ik kon nu niet antwoorden. Probeer het opnieuw.";
+
+/* Photo Editor */
+"photo_editor.title" = "Foto-editor";
+"photo_editor.subtitle" = "Betere visuals maken";
+"photo_editor.description" = "Snelle tools voor filters, covers, watermerk en formaat wijzigen.";
+"photo_editor.filters" = "Filters";
+"photo_editor.filters.subtitle" = "Foto en Video";
+"photo_editor.covers" = "Covers";
+"photo_editor.covers.subtitle" = "Reels en Posts";
+"photo_editor.watermark" = "Watermerk";
+"photo_editor.watermark.subtitle" = "Logo-overlay";
+"photo_editor.resize" = "Formaat wijzigen";
+"photo_editor.resize.subtitle" = "Bijsnijden en aanpassen";
+"photo_editor.all_unlocked" = "Alle editorfuncties ontgrendeld.";
+"photo_editor.some_locked" = "Sommige tools vereisen Pro.";

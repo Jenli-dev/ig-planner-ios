@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "设置";
+"settings.manage_subscription" = "管理订阅";
+"settings.manage_subscription.subtitle" = "更改或取消您的计划";
+"settings.go_pro" = "升级到PRO";
+"settings.go_pro.subtitle" = "解锁所有分析和工具";
+"settings.restore_purchases" = "恢复购买";
+"settings.restore_purchases.subtitle" = "在此设备上重新激活PRO";
+"settings.language" = "语言";
+"settings.language.subtitle" = "选择应用语言";
+"settings.diagnostics" = "诊断";
+"settings.ping_backend" = "检查后端";
+"settings.about" = "关于";
+"settings.terms_of_use" = "使用条款";
+"settings.privacy_policy" = "隐私政策";
+
+/* Status */
+"status.pro_active" = "PRO已激活";
+"status.free_mode" = "免费模式";
+"status.pro_thanks" = "感谢您的支持！🎉";
+"status.unlock_all" = "解锁所有分析和工具";
+"status.upgrade" = "升级";
+
+/* Common */
+"common.cancel" = "取消";
+"common.save" = "保存";
+"common.delete" = "删除";
+"common.edit" = "编辑";
+"common.done" = "完成";
+"common.close" = "关闭";
+"common.ok" = "确定";
+"common.error" = "错误";
+"common.loading" = "加载中...";
+"common.refresh" = "刷新";
+
+/* Analytics */
+"analytics.title" = "分析";
+"analytics.last_update" = "最后更新";
+"analytics.top_posts" = "热门帖子";
+
+/* Post Planner */
+"post_planner.title" = "帖子规划器";
+"post_planner.no_scheduled" = "还没有计划的帖子";
+"post_planner.no_scheduled.subtitle" = "点击\"+ 计划\"或使用发布流程添加帖子。";
+"post_planner.your_media" = "您的媒体";
+"post_planner.add_photos" = "从图库添加照片";
+"post_planner.schedule_post" = "计划帖子";
+
+/* AI */
+"ai.chat.title" = "AI聊天";
+"ai.chat.placeholder" = "写一条消息…";
+"ai.chat.greeting" = "你好！问我关于你的帖子、分析或想法 ✨";
+"ai.chat.error" = "抱歉，我现在无法回复。请再试一次。";
+
+/* Photo Editor */
+"photo_editor.title" = "照片编辑器";
+"photo_editor.subtitle" = "创建更好的视觉效果";
+"photo_editor.description" = "快速工具：滤镜、封面、水印和调整大小。";
+"photo_editor.filters" = "滤镜";
+"photo_editor.filters.subtitle" = "照片和视频";
+"photo_editor.covers" = "封面";
+"photo_editor.covers.subtitle" = "Reels和帖子";
+"photo_editor.watermark" = "水印";
+"photo_editor.watermark.subtitle" = "标志叠加";
+"photo_editor.resize" = "调整大小";
+"photo_editor.resize.subtitle" = "裁剪和适配";
+"photo_editor.all_unlocked" = "所有编辑器功能已解锁。";
+"photo_editor.some_locked" = "某些工具需要Pro。";

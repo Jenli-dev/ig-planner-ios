@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Paramètres";
+"settings.manage_subscription" = "Gérer l'abonnement";
+"settings.manage_subscription.subtitle" = "Modifier ou annuler votre forfait";
+"settings.go_pro" = "Passer à PRO";
+"settings.go_pro.subtitle" = "Débloquer toutes les analyses et outils";
+"settings.restore_purchases" = "Restaurer les achats";
+"settings.restore_purchases.subtitle" = "Réactiver votre PRO sur cet appareil";
+"settings.language" = "Langue";
+"settings.language.subtitle" = "Choisir la langue de l'application";
+"settings.diagnostics" = "Diagnostics";
+"settings.ping_backend" = "Vérifier le Backend";
+"settings.about" = "À propos";
+"settings.terms_of_use" = "Conditions d'utilisation";
+"settings.privacy_policy" = "Politique de confidentialité";
+
+/* Status */
+"status.pro_active" = "PRO actif";
+"status.free_mode" = "Mode gratuit";
+"status.pro_thanks" = "Merci pour votre soutien ! 🎉";
+"status.unlock_all" = "Débloquer toutes les analyses et outils";
+"status.upgrade" = "Mettre à niveau";
+
+/* Common */
+"common.cancel" = "Annuler";
+"common.save" = "Enregistrer";
+"common.delete" = "Supprimer";
+"common.edit" = "Modifier";
+"common.done" = "Terminé";
+"common.close" = "Fermer";
+"common.ok" = "OK";
+"common.error" = "Erreur";
+"common.loading" = "Chargement...";
+"common.refresh" = "Actualiser";
+
+/* Analytics */
+"analytics.title" = "Analyses";
+"analytics.last_update" = "Dernière mise à jour";
+"analytics.top_posts" = "Meilleurs posts";
+
+/* Post Planner */
+"post_planner.title" = "Planificateur de posts";
+"post_planner.no_scheduled" = "Aucun post programmé";
+"post_planner.no_scheduled.subtitle" = "Appuyez sur \"+ Programmer\" ou utilisez le flux de publication pour ajouter un post.";
+"post_planner.your_media" = "Vos médias";
+"post_planner.add_photos" = "Ajouter des photos de la Bibliothèque";
+"post_planner.schedule_post" = "Programmer un post";
+
+/* AI */
+"ai.chat.title" = "Chat IA";
+"ai.chat.placeholder" = "Écrire un message…";
+"ai.chat.greeting" = "Salut ! Demande-moi n'importe quoi sur tes posts, analyses ou idées ✨";
+"ai.chat.error" = "Oups, je n'ai pas pu répondre maintenant. Veuillez réessayer.";
+
+/* Photo Editor */
+"photo_editor.title" = "Éditeur de photos";
+"photo_editor.subtitle" = "Créer de meilleurs visuels";
+"photo_editor.description" = "Outils rapides pour filtres, couvertures, filigrane et redimensionnement.";
+"photo_editor.filters" = "Filtres";
+"photo_editor.filters.subtitle" = "Photo et Vidéo";
+"photo_editor.covers" = "Couvertures";
+"photo_editor.covers.subtitle" = "Reels et Posts";
+"photo_editor.watermark" = "Filigrane";
+"photo_editor.watermark.subtitle" = "Superposition de logo";
+"photo_editor.resize" = "Redimensionner";
+"photo_editor.resize.subtitle" = "Recadrer et ajuster";
+"photo_editor.all_unlocked" = "Toutes les fonctionnalités de l'éditeur sont débloquées.";
+"photo_editor.some_locked" = "Certains outils nécessitent Pro.";

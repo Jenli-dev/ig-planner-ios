@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Einstellungen";
+"settings.manage_subscription" = "Abonnement verwalten";
+"settings.manage_subscription.subtitle" = "Plan ändern oder kündigen";
+"settings.go_pro" = "PRO werden";
+"settings.go_pro.subtitle" = "Alle Einblicke & Tools freischalten";
+"settings.restore_purchases" = "Käufe wiederherstellen";
+"settings.restore_purchases.subtitle" = "PRO auf diesem Gerät reaktivieren";
+"settings.language" = "Sprache";
+"settings.language.subtitle" = "App-Sprache auswählen";
+"settings.diagnostics" = "Diagnose";
+"settings.ping_backend" = "Backend prüfen";
+"settings.about" = "Über";
+"settings.terms_of_use" = "Nutzungsbedingungen";
+"settings.privacy_policy" = "Datenschutzrichtlinie";
+
+/* Status */
+"status.pro_active" = "PRO aktiv";
+"status.free_mode" = "Kostenloser Modus";
+"status.pro_thanks" = "Danke für deine Unterstützung! 🎉";
+"status.unlock_all" = "Alle Einblicke und Tools freischalten";
+"status.upgrade" = "Upgraden";
+
+/* Common */
+"common.cancel" = "Abbrechen";
+"common.save" = "Speichern";
+"common.delete" = "Löschen";
+"common.edit" = "Bearbeiten";
+"common.done" = "Fertig";
+"common.close" = "Schließen";
+"common.ok" = "OK";
+"common.error" = "Fehler";
+"common.loading" = "Lädt...";
+"common.refresh" = "Aktualisieren";
+
+/* Analytics */
+"analytics.title" = "Analysen";
+"analytics.last_update" = "Letzte Aktualisierung";
+"analytics.top_posts" = "Top-Beiträge";
+
+/* Post Planner */
+"post_planner.title" = "Beitragsplaner";
+"post_planner.no_scheduled" = "Noch keine geplanten Beiträge";
+"post_planner.no_scheduled.subtitle" = "Tippe auf \"+ Planen\" oder verwende den Veröffentlichungs-Flow, um einen Beitrag hinzuzufügen.";
+"post_planner.your_media" = "Deine Medien";
+"post_planner.add_photos" = "Fotos aus der Bibliothek hinzufügen";
+"post_planner.schedule_post" = "Beitrag planen";
+
+/* AI */
+"ai.chat.title" = "KI-Chat";
+"ai.chat.placeholder" = "Nachricht schreiben…";
+"ai.chat.greeting" = "Hey! Frag mich alles über deine Beiträge, Analysen oder Ideen ✨";
+"ai.chat.error" = "Ups, ich konnte gerade nicht antworten. Bitte versuche es erneut.";
+
+/* Photo Editor */
+"photo_editor.title" = "Foto-Editor";
+"photo_editor.subtitle" = "Bessere Visuals erstellen";
+"photo_editor.description" = "Schnelle Tools für Filter, Cover, Wasserzeichen & Größenänderung.";
+"photo_editor.filters" = "Filter";
+"photo_editor.filters.subtitle" = "Foto & Video";
+"photo_editor.covers" = "Cover";
+"photo_editor.covers.subtitle" = "Reels & Beiträge";
+"photo_editor.watermark" = "Wasserzeichen";
+"photo_editor.watermark.subtitle" = "Logo-Overlay";
+"photo_editor.resize" = "Größe ändern";
+"photo_editor.resize.subtitle" = "Zuschneiden & Anpassen";
+"photo_editor.all_unlocked" = "Alle Editor-Funktionen freigeschaltet.";
+"photo_editor.some_locked" = "Einige Tools erfordern Pro.";

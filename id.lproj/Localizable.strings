@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Pengaturan";
+"settings.manage_subscription" = "Kelola Langganan";
+"settings.manage_subscription.subtitle" = "Ubah atau batalkan paket Anda";
+"settings.go_pro" = "Jadilah PRO";
+"settings.go_pro.subtitle" = "Buka kunci semua wawasan & alat";
+"settings.restore_purchases" = "Pulihkan Pembelian";
+"settings.restore_purchases.subtitle" = "Aktifkan kembali PRO Anda di perangkat ini";
+"settings.language" = "Bahasa";
+"settings.language.subtitle" = "Pilih bahasa aplikasi";
+"settings.diagnostics" = "Diagnostik";
+"settings.ping_backend" = "Periksa Backend";
+"settings.about" = "Tentang";
+"settings.terms_of_use" = "Syarat Penggunaan";
+"settings.privacy_policy" = "Kebijakan Privasi";
+
+/* Status */
+"status.pro_active" = "PRO aktif";
+"status.free_mode" = "Mode gratis";
+"status.pro_thanks" = "Terima kasih atas dukungannya! 🎉";
+"status.unlock_all" = "Buka kunci semua wawasan dan alat";
+"status.upgrade" = "Tingkatkan";
+
+/* Common */
+"common.cancel" = "Batal";
+"common.save" = "Simpan";
+"common.delete" = "Hapus";
+"common.edit" = "Edit";
+"common.done" = "Selesai";
+"common.close" = "Tutup";
+"common.ok" = "OK";
+"common.error" = "Kesalahan";
+"common.loading" = "Memuat...";
+"common.refresh" = "Muat ulang";
+
+/* Analytics */
+"analytics.title" = "Analitik";
+"analytics.last_update" = "Pembaruan terakhir";
+"analytics.top_posts" = "Postingan teratas";
+
+/* Post Planner */
+"post_planner.title" = "Perencana Posting";
+"post_planner.no_scheduled" = "Belum ada postingan terjadwal";
+"post_planner.no_scheduled.subtitle" = "Ketuk \"+ Jadwalkan\" atau gunakan alur Publikasi untuk menambahkan postingan.";
+"post_planner.your_media" = "Media Anda";
+"post_planner.add_photos" = "Tambahkan foto dari Perpustakaan";
+"post_planner.schedule_post" = "Jadwalkan postingan";
+
+/* AI */
+"ai.chat.title" = "Chat AI";
+"ai.chat.placeholder" = "Tulis pesan…";
+"ai.chat.greeting" = "Hai! Tanyakan saya tentang postingan, analitik, atau ide Anda ✨";
+"ai.chat.error" = "Ups, saya tidak bisa membalas sekarang. Silakan coba lagi.";
+
+/* Photo Editor */
+"photo_editor.title" = "Editor Foto";
+"photo_editor.subtitle" = "Buat visual yang lebih baik";
+"photo_editor.description" = "Alat cepat untuk filter, sampul, watermark & ubah ukuran.";
+"photo_editor.filters" = "Filter";
+"photo_editor.filters.subtitle" = "Foto & Video";
+"photo_editor.covers" = "Sampul";
+"photo_editor.covers.subtitle" = "Reels & Postingan";
+"photo_editor.watermark" = "Watermark";
+"photo_editor.watermark.subtitle" = "Overlay logo";
+"photo_editor.resize" = "Ubah ukuran";
+"photo_editor.resize.subtitle" = "Potong & sesuaikan";
+"photo_editor.all_unlocked" = "Semua fitur editor terbuka.";
+"photo_editor.some_locked" = "Beberapa alat memerlukan Pro.";

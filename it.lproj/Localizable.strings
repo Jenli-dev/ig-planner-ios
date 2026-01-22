@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Impostazioni";
+"settings.manage_subscription" = "Gestisci Abbonamento";
+"settings.manage_subscription.subtitle" = "Modifica o cancella il tuo piano";
+"settings.go_pro" = "Diventa PRO";
+"settings.go_pro.subtitle" = "Sblocca tutte le analisi e gli strumenti";
+"settings.restore_purchases" = "Ripristina Acquisti";
+"settings.restore_purchases.subtitle" = "Riattiva il tuo PRO su questo dispositivo";
+"settings.language" = "Lingua";
+"settings.language.subtitle" = "Scegli la lingua dell'app";
+"settings.diagnostics" = "Diagnostica";
+"settings.ping_backend" = "Verifica Backend";
+"settings.about" = "Informazioni";
+"settings.terms_of_use" = "Termini di Utilizzo";
+"settings.privacy_policy" = "Informativa sulla Privacy";
+
+/* Status */
+"status.pro_active" = "PRO attivo";
+"status.free_mode" = "Modalità gratuita";
+"status.pro_thanks" = "Grazie per il tuo supporto! 🎉";
+"status.unlock_all" = "Sblocca tutte le analisi e gli strumenti";
+"status.upgrade" = "Aggiorna";
+
+/* Common */
+"common.cancel" = "Annulla";
+"common.save" = "Salva";
+"common.delete" = "Elimina";
+"common.edit" = "Modifica";
+"common.done" = "Fatto";
+"common.close" = "Chiudi";
+"common.ok" = "OK";
+"common.error" = "Errore";
+"common.loading" = "Caricamento...";
+"common.refresh" = "Aggiorna";
+
+/* Analytics */
+"analytics.title" = "Analisi";
+"analytics.last_update" = "Ultimo aggiornamento";
+"analytics.top_posts" = "Post principali";
+
+/* Post Planner */
+"post_planner.title" = "Pianificatore Post";
+"post_planner.no_scheduled" = "Nessun post programmato";
+"post_planner.no_scheduled.subtitle" = "Tocca \"+ Programma\" o usa il flusso di Pubblicazione per aggiungere un post.";
+"post_planner.your_media" = "I tuoi media";
+"post_planner.add_photos" = "Aggiungi foto dalla Libreria";
+"post_planner.schedule_post" = "Programma post";
+
+/* AI */
+"ai.chat.title" = "Chat IA";
+"ai.chat.placeholder" = "Scrivi un messaggio…";
+"ai.chat.greeting" = "Ciao! Chiedimi qualsiasi cosa sui tuoi post, analisi o idee ✨";
+"ai.chat.error" = "Ops, non sono riuscito a rispondere ora. Per favore riprova.";
+
+/* Photo Editor */
+"photo_editor.title" = "Editor Foto";
+"photo_editor.subtitle" = "Crea visual migliori";
+"photo_editor.description" = "Strumenti rapidi per filtri, copertine, filigrana e ridimensionamento.";
+"photo_editor.filters" = "Filtri";
+"photo_editor.filters.subtitle" = "Foto e Video";
+"photo_editor.covers" = "Copertine";
+"photo_editor.covers.subtitle" = "Reels e Post";
+"photo_editor.watermark" = "Filigrana";
+"photo_editor.watermark.subtitle" = "Sovrapposizione logo";
+"photo_editor.resize" = "Ridimensiona";
+"photo_editor.resize.subtitle" = "Ritaglia e adatta";
+"photo_editor.all_unlocked" = "Tutte le funzionalità dell'editor sbloccate.";
+"photo_editor.some_locked" = "Alcuni strumenti richiedono Pro.";

@@ -1,0 +1,68 @@
+/* Settings */
+"settings.title" = "Configuración";
+"settings.manage_subscription" = "Administrar Suscripción";
+"settings.manage_subscription.subtitle" = "Cambiar o cancelar tu plan";
+"settings.go_pro" = "Hazte PRO";
+"settings.go_pro.subtitle" = "Desbloquea todas las funciones y herramientas";
+"settings.restore_purchases" = "Restaurar Compras";
+"settings.restore_purchases.subtitle" = "Reactivar tu PRO en este dispositivo";
+"settings.language" = "Idioma";
+"settings.language.subtitle" = "Elegir idioma de la aplicación";
+"settings.diagnostics" = "Diagnósticos";
+"settings.ping_backend" = "Ping Backend";
+"settings.about" = "Acerca de";
+"settings.terms_of_use" = "Términos de Uso";
+"settings.privacy_policy" = "Política de Privacidad";
+
+/* Status */
+"status.pro_active" = "PRO activo";
+"status.free_mode" = "Modo gratuito";
+"status.pro_thanks" = "¡Gracias por apoyarnos! 🎉";
+"status.unlock_all" = "Desbloquea todas las funciones y herramientas";
+"status.upgrade" = "Mejorar";
+
+/* Common */
+"common.cancel" = "Cancelar";
+"common.save" = "Guardar";
+"common.delete" = "Eliminar";
+"common.edit" = "Editar";
+"common.done" = "Hecho";
+"common.close" = "Cerrar";
+"common.ok" = "OK";
+"common.error" = "Error";
+"common.loading" = "Cargando...";
+"common.refresh" = "Actualizar";
+
+/* Analytics */
+"analytics.title" = "Analíticas";
+"analytics.last_update" = "Última actualización";
+"analytics.top_posts" = "Publicaciones principales";
+
+/* Post Planner */
+"post_planner.title" = "Planificador de Publicaciones";
+"post_planner.no_scheduled" = "Aún no hay publicaciones programadas";
+"post_planner.no_scheduled.subtitle" = "Toca \"+ Programar\" o usa el flujo de Publicar para agregar una publicación.";
+"post_planner.your_media" = "Tus medios";
+"post_planner.add_photos" = "Agregar fotos desde la Biblioteca";
+"post_planner.schedule_post" = "Programar publicación";
+
+/* AI */
+"ai.chat.title" = "Chat IA";
+"ai.chat.placeholder" = "Escribe un mensaje…";
+"ai.chat.greeting" = "¡Hola! Pregúntame sobre tus publicaciones, analíticas o ideas ✨";
+"ai.chat.error" = "Ups, no pude responder ahora. Por favor, inténtalo de nuevo.";
+
+/* Photo Editor */
+"photo_editor.title" = "Editor de Fotos";
+"photo_editor.subtitle" = "Crea mejores visuales";
+"photo_editor.description" = "Herramientas rápidas para filtros, portadas, marca de agua y redimensionar.";
+"photo_editor.filters" = "Filtros";
+"photo_editor.filters.subtitle" = "Foto y Video";
+"photo_editor.covers" = "Portadas";
+"photo_editor.covers.subtitle" = "Reels y Publicaciones";
+"photo_editor.watermark" = "Marca de agua";
+"photo_editor.watermark.subtitle" = "Superposición de logo";
+"photo_editor.resize" = "Redimensionar";
+"photo_editor.resize.subtitle" = "Recortar y ajustar";
+"photo_editor.all_unlocked" = "Todas las funciones del editor desbloqueadas.";
+"photo_editor.some_locked" = "Algunas herramientas requieren Pro.";
